@@ -3,3 +3,4 @@ checking status
 this is for diff
 once more diff
 this is 5th line
+checking for -a
